@@ -1,0 +1,39 @@
+.sobre-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+    text-align: center;
+    padding: 20px;
+    background-color: #b1000000;
+  }
+  
+  .sobre-container h1 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .sobre-container h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .sobre-container p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+    color: #000000;
+  }
+  .profile-avatar {
+    width: 160px; 
+    height: 160px; 
+    border-radius: 50%; 
+    border: 3px solid #333; 
+    object-fit: cover;
+    margin-top: 20px; 
+  }
+  
+  
